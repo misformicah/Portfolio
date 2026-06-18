@@ -26,23 +26,27 @@ This project documents my cybersecurity home lab built using VirtualBox.
 - Learn SIEM and IDS/IPS technologies
 - Develop projects for my portfolio
 
-- ## Current Lab Status
+## Current Lab Status
 
 Completed:
 - pfSense Deployment
 - Suricata Installation
 - pfBlockerNG Installation
-- Kali Linux Configuration
+- Kali Linux Deployment
 - Ubuntu Server Deployment
+- Windows 11 Enterprise Deployment
+- Internal Network Configuration
+- DHCP Configuration Through pfSense
 
 In Progress:
-- Windows 11 Enterprise Deployment
-- Wazuh SIEM Configuration
+- Wazuh Configuration
+- Endpoint Monitoring
 
 Planned:
-- Sysmon Integration
-- Wazuh Agents
+- Sysmon Deployment
+- Wazuh Agent Installation
 - Vulnerability Scanning
+- Threat Detection Use Cases
 
 - ## Skills Demonstrated
 
