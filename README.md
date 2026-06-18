@@ -25,3 +25,21 @@ This project documents my cybersecurity home lab built using VirtualBox.
 - Prepare for CySA+
 - Learn SIEM and IDS/IPS technologies
 - Develop projects for my portfolio
+
+- ## Current Lab Status
+
+Completed:
+- pfSense Deployment
+- Suricata Installation
+- pfBlockerNG Installation
+- Kali Linux Configuration
+- Ubuntu Server Deployment
+
+In Progress:
+- Windows 11 Enterprise Deployment
+- Wazuh SIEM Configuration
+
+Planned:
+- Sysmon Integration
+- Wazuh Agents
+- Vulnerability Scanning
