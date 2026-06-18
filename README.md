@@ -43,3 +43,13 @@ Planned:
 - Sysmon Integration
 - Wazuh Agents
 - Vulnerability Scanning
+
+- ## Skills Demonstrated
+
+- Firewall Administration
+- Network Security Monitoring
+- IDS/IPS Configuration
+- SIEM Deployment
+- Virtualization
+- Linux Administration
+- Security Analysis
