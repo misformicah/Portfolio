@@ -37,14 +37,14 @@ Completed:
 - Windows 11 Enterprise Deployment
 - Internal Network Configuration
 - DHCP Configuration Through pfSense
+- Wazuh Configuration
+- Wazuh Agent Installation
 
 In Progress:
-- Wazuh Configuration
 - Endpoint Monitoring
 
 Planned:
 - Sysmon Deployment
-- Wazuh Agent Installation
 - Vulnerability Scanning
 - Threat Detection Use Cases
 
