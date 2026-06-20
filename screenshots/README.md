@@ -2,11 +2,11 @@
 
 <img width="952" height="877" alt="pfsense-dashboard" src="https://github.com/user-attachments/assets/55e2bf27-03d0-4663-9bec-bb8f662de308" />
 
-pfSense acts as the firewall and network gateway.
-Windows 11 is the monitored endpoint.
-Kali Linux is used to generate attack traffic.
-Wazuh serves as the SIEM and detection platform.
-Suricata provides network intrusion detection.
+pfSense acts as the firewall and network gateway.<br>
+Windows 11 is the monitored endpoint.<br>
+Kali Linux is used to generate attack traffic.<br>
+Wazuh serves as the SIEM and detection platform.<br>
+Suricata provides network intrusion detection.<br>
 
 ## Wazuh Agent Deployment
 
