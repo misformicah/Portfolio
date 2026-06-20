@@ -2,15 +2,15 @@ Contents:
 
 Purpose
 
-Why pfSense was added.
+DNS/IP reputation blocking.
 
 Installation
-VM configuration
-Network adapters used
-LAN IP configuration
-WAN configuration
-DHCP configuration
+  Package installation
+  Initial wizard
+  Feed updates
+Configuration
+  DNSBL
+  IP block lists
 Validation
-Confirmed Internet access
-Confirmed LAN communication
-Confirmed VM connectivity
+  Feed updates successful
+  Blocks occurring
