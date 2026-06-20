@@ -98,11 +98,13 @@ Planned:
 * Detection Engineering
 * Network Security Monitoring
 * Firewall Administration
-* IDS/IPS Configuration
+* IDS/IPS Configuration & Management
 * Linux Administration
 * Windows Security Monitoring
 * Incident Investigation
+* MITRE ATT&CK Analysis
 * Virtualization
+* Security Operations (SOC)
 
 ## Sample Findings
 
