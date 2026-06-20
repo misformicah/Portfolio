@@ -1,6 +1,6 @@
-Problems Encountered and Resolutions
+# Problems Encountered and Resolutions
 
-1. Wazuh Agent Not Showing Data
+## 1. Wazuh Agent Not Showing Data
 Problem
 
 The Windows 11 endpoint appeared connected to Wazuh, but events were not appearing in the dashboard.
@@ -19,7 +19,7 @@ Endpoint monitoring
 Agent management
 Log verification
 
-2. Sysmon XML Configuration Would Not Load
+## 2. Sysmon XML Configuration Would Not Load
 Problem
 
 Sysmon installation returned an error indicating the XML configuration file could not be opened.
@@ -36,7 +36,7 @@ Skills Demonstrated
 Windows administration
 Endpoint telemetry configuration
 
-3. Sysmon Events Not Appearing in Wazuh
+## 3. Sysmon Events Not Appearing in Wazuh
 Problem
 
 Sysmon was running locally but events did not immediately appear in Wazuh.
@@ -54,7 +54,7 @@ Threat hunting
 Event log analysis
 Windows security monitoring
 
-4. Confusion Between Windows Events and Sysmon Events
+## 4. Confusion Between Windows Events and Sysmon Events
 Problem
 
 Many detections appeared in Wazuh, but it was unclear whether they originated from Sysmon or standard Windows logs.
@@ -74,7 +74,7 @@ Skills Demonstrated
 Threat hunting
 Log source validation
 
-5. Vulnerability Detection Validation
+## 5. Vulnerability Detection Validation
 Problem
 
 Needed to verify Wazuh vulnerability detection functionality.
@@ -91,7 +91,7 @@ Skills Demonstrated
 Vulnerability management
 CVE analysis
 
-6. Suricata Installed but No Alerts Generated
+## 6. Suricata Installed but No Alerts Generated
 Problem
 
 Suricata was running but the Alerts tab remained empty.
@@ -112,7 +112,7 @@ Skills Demonstrated
 IDS troubleshooting
 Security monitoring validation
 
-7. Suricata Logging Not Enabled
+## 7. Suricata Logging Not Enabled
 Problem
 
 Logs View reported:
@@ -138,7 +138,7 @@ Skills Demonstrated
 IDS configuration
 Security telemetry collection
 
-8. Traffic Appeared in EVE but No Alerts Generated
+## 8. Traffic Appeared in EVE but No Alerts Generated
 Problem
 
 eve.json contained traffic events but no alert events.
@@ -156,7 +156,7 @@ Skills Demonstrated
 IDS log analysis
 Signature troubleshooting
 
-9. Limited Rule Coverage
+## 9. Limited Rule Coverage
 Problem
 
 Suricata loaded only 666 signatures.
@@ -194,7 +194,7 @@ Skills Demonstrated
 Signature management
 IDS tuning
 
-10. Nmap Detection Validation
+## 10. Nmap Detection Validation
 Problem
 
 Initial Nmap scans generated no alerts.
@@ -217,7 +217,7 @@ Skills Demonstrated
 Adversary simulation
 IDS validation
 Detection engineering
-Lessons Learned
+## Lessons Learned
 Endpoint Visibility
 
 Sysmon provides significantly more detailed telemetry than default Windows logging.
@@ -240,7 +240,7 @@ Investigating individual events helps validate data sources and detection covera
 
 Security Operations
 
-Building a functioning SOC lab requires:
+## Building a functioning SOC lab requires:
 
 Network monitoring
 Endpoint monitoring
